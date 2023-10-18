@@ -80,7 +80,7 @@ img {
 }
 
 .btn-primary {
-	background-color: transparent;
+	background-color: var(--color-primary);
 	color: var(--color-white);
 }
 
