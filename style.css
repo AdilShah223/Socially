@@ -80,7 +80,7 @@ img {
 }
 
 .btn-primary {
-	background-color: var(--color-primary);
+	background-color: transparent;
 	color: var(--color-white);
 }
 
@@ -112,7 +112,7 @@ nav .container {
 .search-bar {
 	background-color: var(--color-light);
 	border-radius: var(--border-radius);
-	padding: var(--search-padding);
+	padding-left: 6rem;
 }
 
 .search-bar input[type='search'] {
