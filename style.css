@@ -771,7 +771,7 @@ main .container .left .profile {
 	.left .notifications-popup::before {
 		display: absolute;
 		top: 1.3rem;
-		left: calc(20rem - 0.6rem);
+		left: calc(20rem - 0.7rem);
 		display: block;
 	}
 
