@@ -112,7 +112,7 @@ nav .container {
 .search-bar {
 	background-color: var(--color-light);
 	border-radius: var(--border-radius);
-	padding-left: 6rem;
+	padding: var(--search-padding);
 }
 
 .search-bar input[type='search'] {
@@ -771,7 +771,7 @@ main .container .left .profile {
 	.left .notifications-popup::before {
 		display: absolute;
 		top: 1.3rem;
-		left: calc(20rem - 0.6rem);
+		left: calc(20rem - 0.7rem);
 		display: block;
 	}
 
